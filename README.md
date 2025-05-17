@@ -52,8 +52,6 @@ cd kidney-ct-classification
 ## ✍️ Author
 
 **Arun Kumar Gnanasekar**
-
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 - 💻 GitHub: [github.com/ArunKumarSekar](https://github.com/ArunKumarSekar0712)
 
 ## 📄 License
